@@ -11,7 +11,7 @@ The Spite License is, in essence, a trapdoor — it allows potential licensees t
 * Because it's funny
 * Because you want randos on the Internet but not big companies with lawyers who make their engineers actually read licenses to use your software
 
-Note, though, that I am not a lawyer and this was written as a joke — no legal professionals have read or approved of the Spite License and I make no claims as to its legality, enforcability, or efficacy in any jurisdiction.
+Note, though, that I am not a lawyer and this was written as a joke — no legal professionals have read or approved of the Spite License and I make no claims as to its legality, enforceability, or efficacy in any jurisdiction.
 
 ## Colophon
 
